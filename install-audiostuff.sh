@@ -1,4 +1,5 @@
-mkdir audio stuff
+mkdir audio
+cd audio
 sudo apt-get update
 sudo apt-get upgrade
 
