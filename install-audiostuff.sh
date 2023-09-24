@@ -27,3 +27,7 @@ cd ../
 
 systemctl enable shairport-sync
 systemctl start shairport-sync
+
+sudo add-apt-repository ppa:spocon/spocon
+sudo apt-get -y update
+sudo apt-get install spocon 
